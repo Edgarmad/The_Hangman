@@ -1,0 +1,4 @@
+La rayita que utilice para marcar la letra la obtuve de aqui:
+https://github.com/codigofacilito/hangman
+es un xml que solo crea una linea negra que abarca el tamaño del
+objeto, en este caso un textview
